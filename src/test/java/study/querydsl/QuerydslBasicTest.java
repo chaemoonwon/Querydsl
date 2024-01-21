@@ -809,7 +809,4 @@ public class QuerydslBasicTest {
 
     }
 
-
-
-
 }
